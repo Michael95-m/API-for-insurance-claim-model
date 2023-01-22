@@ -1,2 +1,2 @@
 from .info import Info
-from .predict import PredictResults, MultipleInsuranceInputs
+from .predict import MultipleInsuranceInputs, PredictResults
