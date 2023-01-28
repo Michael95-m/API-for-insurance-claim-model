@@ -4,3 +4,4 @@ pandas
 numpy
 loguru
 insurance-claim-model==0.0.5
+gunicorn
